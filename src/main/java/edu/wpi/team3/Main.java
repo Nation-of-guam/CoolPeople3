@@ -16,6 +16,7 @@ public class Main {
     System.out.println("Robbie Eskridge");
 
     aidanFunction();
+    eliFunction();
     printEthan();
 
   }
@@ -27,5 +28,7 @@ public class Main {
   private static void printEthan() {
     System.out.println("Printing Ethan from Branch");
   }
-
+  private static void eliFunction(){
+    System.out.println("Branch - Eli Hoffberg");
+  }
 }
