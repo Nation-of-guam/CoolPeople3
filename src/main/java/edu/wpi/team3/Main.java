@@ -6,9 +6,9 @@ public class Main {
 
     App.launch(App.class, args);
 
+    System.out.println("Gabrielle Acquista");
     System.out.println("Alex Sun");
     System.out.println("Aidan Burns");
-
     System.out.println("Randy Huang");
     System.out.println("Ethan Schrim");
 
