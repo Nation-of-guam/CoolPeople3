@@ -26,10 +26,18 @@ public class Main {
     System.out.println("Branch - Aidan Burns");
   }
 
+  private static void graceFunction(){
+    System.out.println("Branch - Grace Liu");
+  }
+
   private static void printEthan() {
     System.out.println("Printing Ethan from Branch");
   }
   private static void eliFunction(){
     System.out.println("Branch - Eli Hoffberg");
   }
+
+
 }
+
+
