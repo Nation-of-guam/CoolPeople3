@@ -9,7 +9,7 @@ public class Main {
     System.out.println("Alex Sun");
     System.out.println("Aidan Burns");
     System.out.println("Randy Huang");
-    System.out.println("Ethan");
+    System.out.println("Ethan Schrim");
 
   }
 }
