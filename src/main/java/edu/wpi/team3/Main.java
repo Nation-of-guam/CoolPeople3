@@ -15,6 +15,11 @@ public class Main {
     System.out.println("Robbie Eskridge");
     System.out.println("Branch - Aidan Burns");
 
+    aidanFunction();
+
   }
+    private static void aidanFunction(){
+      System.out.println("Branch - Aidan Burns");
+    }
 
 }
