@@ -19,7 +19,7 @@ public class Main {
     aidanFunction();
     eliFunction();
     printEthan();
-
+    printSamay();
   }
 
   private static void aidanFunction(){
