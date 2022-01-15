@@ -25,6 +25,7 @@ public class Main {
   private static void aidanFunction(){
     System.out.println("Branch - Aidan Burns");
   }
+<<<<<<< HEAD
 
   private static void graceFunction(){
     System.out.println("Branch - Grace Liu");
@@ -38,6 +39,11 @@ public class Main {
   }
 
 
+=======
+  private static void printSamay(){
+    System.out.println("Branch - Samay Govani");
+  }
+>>>>>>> samayBranch
 }
 
 
