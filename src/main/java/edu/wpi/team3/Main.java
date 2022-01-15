@@ -24,6 +24,8 @@ public class Main {
   private static void aidanFunction(){
     System.out.println("Branch - Aidan Burns");
   }
-
+  private static void printSamay(){
+    System.out.println("Branch - Samay Govani");
+  }
 }
 
